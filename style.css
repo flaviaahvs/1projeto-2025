@@ -1,4 +1,10 @@
 img{
-width: 400%;
+width: 200%;
+
+}
+.cabecalho{
+width: 200px;
+height: 100px;
+background-color: blueviolet;
 
 }
