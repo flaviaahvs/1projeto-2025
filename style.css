@@ -1,21 +1,24 @@
-img{
-width: 200px;
+img {
+    width: 200px;
 
 }
-.cabecalho{
-width: 1000px;
-height: 100px;
-background-color: rgb(130, 26, 226);
+
+.cabecalho {
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(130, 26, 226);
 
 }
-.primeirasecao{
 
-width: 1000px;
-height: 500px;
-background-color: rgb(110, 88, 233);
+.primeirasecao {
+    display: flex;
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(110, 88, 233);
 }
-.divisao{
+
+.divisao {
     width: 200px;
     height: 200px;
     background-color: rgb(99, 38, 156);
-    }
+}
